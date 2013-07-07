@@ -1,0 +1,23 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-flat-ui": {
+        "git": "https://github.com/electricjesus/meteor-flat-ui.git",
+        "branch": "cbde318"
+      }
+    },
+    "packages": {
+      "meteor-flat-ui": {
+        "git": "https://github.com/electricjesus/meteor-flat-ui.git",
+        "branch": "cbde318",
+        "commit": "cbde318dc3985e5f5bd4c0e0c5db058e0a5ca26f"
+      },
+      "bootstrap-updated": {
+        "git": "https://github.com/electricjesus/bootstrap-updated.git",
+        "branch": "master",
+        "commit": "0b15cc96235e4a579d58840ba868ce7fde560f20"
+      }
+    }
+  }
+}
