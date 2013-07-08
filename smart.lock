@@ -11,7 +11,7 @@
       "meteor-flat-ui": {
         "git": "https://github.com/electricjesus/meteor-flat-ui.git",
         "branch": "master",
-        "commit": "c364e85bf6605fc069f4e4f2a557e045ffd66bf5"
+        "commit": "d30d08820b91a49d372449bfe3d66ddb592228cd"
       }
     }
   }
