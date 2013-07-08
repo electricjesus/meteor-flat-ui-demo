@@ -1,7 +1,7 @@
 {
   "packages": {
     "meteor-flat-ui" : { 
-    "branch" : "cbde318",
+    "branch" : "master",
     "git" : "https://github.com/electricjesus/meteor-flat-ui.git"
     }
   }
